@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [3-column preview card component solution](https://github.com/Shreykr/three-column-card-solution.git)
+- Solution URL: [3-column preview card component solution](https://github.com/Shreykr/three-column-card-challenge/)
 - Live Site URL: [Column Card](https://three-column-card-component.netlify.app/)
 
 ## My process
